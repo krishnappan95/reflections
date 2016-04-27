@@ -19,6 +19,8 @@ When we need to perform some experimental changes or unique features that we are
 
 How do the diagrams help you visualize the branch structure?
 
+Help to know the history from Tail to HEAD for each branches as well as find the info about unreachable commit id(detached head)
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 

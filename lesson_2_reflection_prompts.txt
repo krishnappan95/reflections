@@ -27,5 +27,19 @@ the diagram the way we do?
 The result of merging two branches will create a commit logs in the order of timestamp along with the change  made in both the branches by combining one branch to another along with its features that are working properly. 
 
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic merging:
+pros
+ easy 
+ single step
+cons
+ Arises merge conflicts which will be resolved manually
+
+ Manual merging:
+ pros
+ 	help in merging the files that are logically same( have changes in naming)
+ 	help to cross check the correctness of code
+ cons
+ 	Takes time

@@ -24,5 +24,8 @@ Help to know the history from Tail to HEAD for each branches as well as find the
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The result of merging two branches will create a commit logs in the order of timestamp along with the change  made in both the branches by combining one branch to another along with its features that are working properly. 
+
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?

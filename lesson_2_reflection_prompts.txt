@@ -15,6 +15,8 @@ Staging area can be used in way such that all files that represent a logical cha
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+When we need to perform some experimental changes or unique features that we are not confident.Branches can help us to add experimental changes to repository publicly so that if succeeded we can merge it with master branch/ we can ignore it on failure without making changes to previous version.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in

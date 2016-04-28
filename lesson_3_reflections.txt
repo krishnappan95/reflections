@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+    When we want to have copy of local repository, we can use remote repositiory ( pushing changes from local to remote) 
+    and we can access the local repo from anywhere.
+

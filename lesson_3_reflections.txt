@@ -24,10 +24,13 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    By sending the codes through mail and exchange the info about changes to the collaborators.But it is a diffult job to do it every time.So without Git or Github work becomes hard.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When we want to add a different feature we create a branch and add it . When error happens we can checkout to master branch and do it again starting from error free code.Without creating branch it becomes a little bit clumpsy.
+    Benefits:
+    branch- helps in developing when there are errors by checking out to previous versions
+    master- all changes are made directly in master branch(careful in making changes) so need of merging of branches.
 

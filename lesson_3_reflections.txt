@@ -19,7 +19,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    We can do our work from the place where the remote copy had been left with all changes incorporated instead of having a old file(not updated version).
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
